@@ -17,6 +17,7 @@
     }
     #hamburger-nav{
         display: flex;
+        
     }
     #experience, .experience-detail-container{
         margin-top: 2rem;
@@ -71,7 +72,7 @@
         margin: 0;
     }
     .contact-info-container p, .nav-links li a{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
     .experience-sub-title{
         font-size: 1.25rem;
